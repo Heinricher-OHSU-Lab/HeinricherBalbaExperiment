@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StartupInfo>
+  <StartupInfoItem itemName="Display.DisplayIndex">1</StartupInfoItem>
+  <StartupInfoItem itemName="EnableBeast">False</StartupInfoItem>
+  <StartupInfoItem itemName="FMRITrigWait">0</StartupInfoItem>
+</StartupInfo>
